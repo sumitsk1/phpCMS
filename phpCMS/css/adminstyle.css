@@ -1,0 +1,81 @@
+
+body{
+	background-color: #2f4050;
+	
+}
+.navbar-nav li{
+	font-size: 1.6rem;
+}
+.navbar-inverse{
+	background-color:  #2f4050;
+	border: 0px;
+	border-radius: 0px;
+}
+.navbar-nav li:hover{
+	border-radius: 4px;
+	background-color: black;
+}
+/*body{
+	background-color: red ;
+}*/
+.Line{
+	height: 5px;
+	background-color: #27aae1;
+}
+.blog-header{
+	margin-left: 15px;
+}
+.col-sm-10{
+	background-color:#ffffff;
+	/*background-color: blue;*/
+}
+.loginpage{
+	background-color:#ffffff;
+	border-radius: 0px;
+	box-shadow: 10px 10px 0px silver;
+}
+#sidemenu a{
+	color: #9fb1c2;
+}
+#sidemenu .active a{
+	color: #ffffff;
+	background-color: #27aaf1;
+	font-weight: bold;
+}
+#sidemenu a:hover{
+	color: #ffffff;
+	background-color:#1ab394;
+	font-weight:bold;
+	/*display: block;*/
+}
+#footer{
+	padding: 10px;
+	border-top: 1px solid black;
+	color: #eeeeee;
+	background-color: #211f22;
+	text-align: center;
+	bottom: 0;
+}
+#footer a{
+	color: white;
+	text-decoration: none;
+	cursor: pointer;
+	font-weight: bold;
+}
+form{
+	background-color: transparent;
+	/*padding: 20px;*/
+	box-sizing:border-box; 
+	/*border: .5px solid gray;*/
+}
+.form-group label{
+	font-size: 20px;
+
+}
+
+.catName{
+			font-family: arial ,verdana ,sans-serif;
+			font-size: 1.6rem;
+			color: #005e90;
+			font-weight: bold;
+}
